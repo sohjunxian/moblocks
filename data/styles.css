@@ -16,6 +16,8 @@
 }
 .ellipse {
 }
+.shape {
+}
 .image {
 }
 .button {
@@ -79,6 +81,8 @@
 }
 .flow_shape {
 }
+.connector {
+}
 .form_hint {
   color:#999999;
 }
@@ -86,7 +90,7 @@
 }
 .icon {
 }
-.shape {
+.shape1 {
 }
 .label {
   font-size:14px;

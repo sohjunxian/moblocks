@@ -1002,6 +1002,24 @@
 }
 #u102.mouseOver {
 }
+#u102_div.mouseDown {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:221px;
+  height:63px;
+  background:inherit;
+  background-color:rgba(253, 232, 36, 0.972549019607843);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:32px;
+}
+#u102.mouseDown {
+}
 #u102_text {
   border-width:0px;
   word-wrap:break-word;

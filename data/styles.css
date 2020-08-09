@@ -16,6 +16,8 @@
 }
 .ellipse {
 }
+.placeholder {
+}
 .shape {
 }
 .image {
@@ -75,7 +77,17 @@
   color:#000000;
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
 .text_area {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
   color:#000000;
   text-align:left;
 }
@@ -88,12 +100,212 @@
 }
 .form_disabled {
 }
+.box_3 {
+}
 .icon {
+}
+.line1 {
+}
+.link_button {
+  color:#169BD5;
 }
 .shape1 {
 }
 .label {
   font-size:14px;
   text-align:left;
+}
+.text_link {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
+.c_checkbox {
+  font-family:'IBM Plex Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#171717;
+  text-align:left;
+  line-height:18px;
+}
+.c_checkbox__selected {
+}
+.c_dropdown_input {
+  font-family:'IBM Plex Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:left;
+}
+.c_dropdown_input_inline {
+  font-family:'IBM Plex Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:left;
+}
+.c_dropdown_item {
+  font-family:'IBM Plex Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:left;
+}
+.c_dropdown_item_w_chk {
+  font-family:'IBM Plex Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:left;
+}
+.c_dropdown_separator {
+}
+.c_focus {
+}
+.c_focus_control {
+  text-align:left;
+  line-height:normal;
+}
+.c_multiselect_label {
+  font-family:'IBM Plex Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:left;
+  line-height:18px;
+}
+.c_multiselect_num {
+  font-family:'IBM Plex Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:16px;
+}
+.c_multiselect_num_clear {
+  font-family:'ZapfDingbatsITC', 'Zapf Dingbats', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:16px;
+}
+.c_search_input_tbl_48px {
+  font-family:'IBM Plex Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:left;
+  line-height:18px;
+}
+.c_slider_thumb {
+}
+.c_slider_thumb_active {
+}
+.c_slider_thumb_focus {
+}
+.c_slider_track_filled {
+  color:#161616;
+}
+.c_spacer {
+  font-family:'IBM Plex Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:center;
+  line-height:18px;
+}
+.c_text_input__disabled {
+  color:#C6C6C6;
+}
+.c_text_input__focused {
+}
+.c_text_input_align-center {
+  font-family:'IBM Plex Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#161616;
+  text-align:center;
+  line-height:normal;
+}
+.c_typo__body-short-01 {
+  font-family:'IBM Plex Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:left;
+  line-height:18px;
+}
+.c_typo__heading-01 {
+  font-family:'IBM Plex Sans', sans-serif;
+  font-weight:650;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:left;
+  line-height:18px;
+}
+.c_typo__label-01 {
+  font-family:'IBM Plex Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  letter-spacing:0.32px;
+  color:#393939;
+  text-align:left;
+  line-height:16px;
+}
+.c__disabled-01 {
+  color:#C6C6C6;
+}
+.c__disabled-02 {
+  color:#8D8D8D;
+}
+.c__disabled-02_text {
+  color:#C6C6C6;
+}
+.c__hover-ui {
+  color:#161616;
+}
+.c__hover-ui_input {
+  color:#161616;
+}
+.c__icon-01 {
+}
+.c__interactive-01 {
+  color:#FFFFFF;
+}
+.c__interactive-01_line {
+}
+.c__selected-ui {
+}
+.c__text-03 {
+  color:#A8A8A8;
+}
+.c__ui-01 {
 }
 textarea, select, input, button { outline: none; }
